@@ -1,0 +1,27 @@
+client:
+
+  client1:
+    database:
+      type: MSSQL
+      server_host: 1.2.3.4\\instance
+
+  client2:
+    database:
+      type: MSSQL
+      server_host: 1.2.3.4\\instance
+
+  client3:
+    database:
+      type: MSSQL
+      server_host: 1.2.3.4\\instance
+
+  client4:
+    database:
+      type: MSSQL
+      server_host: 1.2.3.4\\instance
+
+  client5:
+    database:
+      type: MSSQL
+      server_host: 1.2.3.4\\instance
+
